@@ -4,7 +4,7 @@ I’m a recent graduate with a major in E-commerce from the University of Inform
 ## 👨‍💻 About me
 
 🎓 Currently graduating in Ecommerce - Information System at HCMUIT-VNU  
-💻 Experienced in Data Analysis and Data Science
+💻 Experienced in Data Analysis and Data Science  
 🌱 Always learning and exploring new technologies  
 📈 Seeking opportunities in innovative environments  
 
