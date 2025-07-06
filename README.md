@@ -23,7 +23,7 @@ I’m a recent graduate with a major in E-commerce from the University of Inform
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools & Technologies
-![Power BI](https://img.shields.io/static/v1?label=Power%20BI&message=&color=F2C811&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&logoPosition=righ)
 ![Chat GPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Design
