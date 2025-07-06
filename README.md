@@ -1,7 +1,6 @@
 # 👋 Hi there! I'm Bui Si Khoa
 
-I’m a recent graduate with a major in E-commerce from the University of Information Technology, VNU–HCM City.  I have a genuine passion for programming and continuously strive to improve my craft.
-  
+I’m a recent graduate with a major in E-commerce from the University of Information Technology, VNU–HCM City. A careful, honest, responsible person with assigned work. I am able to work independently and withstand pressure.
 ## 👨‍💻 About me
 
 🎓 Currently graduating in Ecommerce - Information System at HCMUIT-VNU  
@@ -24,12 +23,10 @@ I’m a recent graduate with a major in E-commerce from the University of Inform
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools & Technologies
-
-
-
+![Power BI](https://img.shields.io/static/v1?label=Power%20BI&message=&color=F2C811&logo=powerbi&logoColor=black)
 ![Chat GPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Design
-![Figma](https://img.shields.io/badge/Figma-222?&logo=figma)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
