@@ -5,7 +5,7 @@ I’m a recent graduate with a major in E-commerce from the University of Inform
 ## 👨‍💻 About me
 
 🎓 Currently graduating in Ecommerce - Information System at HCMUIT-VNU  
-💻 Experienced in full-stack web development  
+💻 Experienced in Data Analysis and Data Science
 🌱 Always learning and exploring new technologies  
 📈 Seeking opportunities in innovative environments  
 
@@ -24,7 +24,7 @@ I’m a recent graduate with a major in E-commerce from the University of Inform
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools & Technologies
-![Power BI](https://pragmaticworks.com/hs-fs/hubfs/Microsoft-Power-BI-Symbol.png?width=500&height=500&name=Microsoft-Power-BI-Symbol.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/New_Power_BI_Logo.svg" width="80" alt="Power BI logo">
 ![Chat GPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Design
